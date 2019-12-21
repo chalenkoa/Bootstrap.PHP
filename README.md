@@ -6,4 +6,4 @@ PHP библиотека для создания компонентов Bootstra
 
 Сайт  проекта [http://allking.ru/bootstrap.php/][1]
 
-  [1]: http://allking.ru/bootstrap.php/
+  [1]: http://allking.club/bootstrap.php/
